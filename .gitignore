@@ -91,7 +91,7 @@ target/
 .pytest_cache/
 
 # Data and models
-data/conversion/private-data/*
+data/conversion/private-data/
 models/*
 !.gitkeep
 docs/*
